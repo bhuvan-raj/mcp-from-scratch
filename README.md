@@ -62,7 +62,5 @@ By completing this repository, you will be able to:
 - **[Module 2 – MCP Architecture](./MCP%20Architecture/)**  
   Explains the client–server model of MCP, the role of the LLM as the client, responsibilities of the MCP server, communication flow, stateless vs stateful interactions, and key security boundaries for safe and scalable AI integrations.
 
-- [Intermediate MCP](./03-intermediate/)
-- [Advanced MCP](./04-advanced/)
-- [DevOps Use Cases](./05-devops-usecases/)
-- [Capstone Projects](./capstone-projects/)
+- **[Module 3 – Core MCP Concepts](./Core%20MCP%20Concepts/)**  
+  Covers the essential building blocks of MCP, including tools, resources, prompts, transports, JSON schema fundamentals, and input/output validation, providing a foundation for safe and structured AI–tool interactions.
