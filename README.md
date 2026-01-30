@@ -54,3 +54,11 @@ By completing this repository, you will be able to:
 - Enterprise-grade MCP system design
 
 ---
+## 🧭 Learning Path
+
+- [Module 1 - Introduction to MCPs](./Introduction%20to%20MCPs/)
+- [MCP Basics](./02-basics/)
+- [Intermediate MCP](./03-intermediate/)
+- [Advanced MCP](./04-advanced/)
+- [DevOps Use Cases](./05-devops-usecases/)
+- [Capstone Projects](./capstone-projects/)
