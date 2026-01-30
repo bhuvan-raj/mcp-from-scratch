@@ -1,5 +1,7 @@
 
 # 📘 Module 1: Introduction to MCP (Model Context Protocol)
+<img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/mcp2.gif" alt="Banner" />
+
 
 ---
 
