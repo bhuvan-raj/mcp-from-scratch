@@ -1,8 +1,11 @@
 # MCP From Scratch 🚀  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-blue.svg)
-![Learning](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-purple.svg)
-![Topic](https://img.shields.io/badge/Topic-MCP-orange.svg)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-purple.svg)
+![Domain](https://img.shields.io/badge/Domain-AI%20Engineering-orange.svg)
+![Focus](https://img.shields.io/badge/Focus-DevOps-informational.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success.svg)
 
 
 **Mastering Model Context Protocol step by step**
