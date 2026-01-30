@@ -10,15 +10,8 @@
 **Mastering Model Context Protocol step by step**
 
 ---
-## ✅ Progress Tracker
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 
-- [ ] MCP Fundamentals
-- [ ] First MCP Server
-- [ ] Tools & Resources
-- [ ] HTTP MCP Server
-- [ ] Security & Auth
-- [ ] DevOps MCP Labs
-- [ ] Capstone Project
 
 
 ## 📘 About This Repository
