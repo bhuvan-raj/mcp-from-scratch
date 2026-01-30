@@ -2,6 +2,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-blue.svg)
 ![Learning](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-purple.svg)
+![Topic](https://img.shields.io/badge/Topic-MCP-orange.svg)
+
 
 **Mastering Model Context Protocol step by step**
 
