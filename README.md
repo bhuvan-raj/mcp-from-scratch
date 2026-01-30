@@ -57,7 +57,7 @@ By completing this repository, you will be able to:
 ## 🧭 Learning Path
 
 - [Module 1 - Introduction to MCPs](./Introduction%20to%20MCPs/)
-- [MCP Basics](./02-basics/)
+- [MCP Architecture](./MCP%20Architecture/)
 - [Intermediate MCP](./03-intermediate/)
 - [Advanced MCP](./04-advanced/)
 - [DevOps Use Cases](./05-devops-usecases/)
