@@ -1,4 +1,6 @@
 # MCP From Scratch 🚀  
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 **Mastering Model Context Protocol step by step**
 
 ---
