@@ -50,6 +50,24 @@ STDIO transport uses **standard input/output streams** to communicate between th
 * Does not require network configuration
 
 ---
+Absolutely, **Bubu**. Here’s a **clear ASCII diagram** showing **STDIO transport** vs **HTTP transport** for MCP connections. I’ve made it readable and industry-style.
+
+---
+
+## 1. STDIO Transport (Local MCP Server)
+
+```
++-----------------+          STDIO (stdin/stdout)          +-----------------+
+|   LLM Client    | <---------------------------------->  |  MCP Server     |
+|  (Local AI)     |                                      |  (Local Tools)  |
++-----------------+                                      +-----------------+
+| - Generates     |                                      | - Executes      |
+|   prompts       |                                      |   tools         |
+| - Receives      |                                      | - Validates     |
+|   structured    |                                      |   input/output  |
+|   output        |                                      |                 |
++-----------------+                                      +-----------------+
+```
 
 ### 3.2 Characteristics
 
@@ -86,6 +104,20 @@ HTTP transport uses **HTTP/HTTPS requests** for communication.
 * Enables **scalable client-server deployment**
 
 ---
+
+```
+          HTTPS / REST / SSE
++-----------------+  ---------------------------  +----------------------+
+|   LLM Client    | <------------------------->  |    MCP Server        |
+|  (Local AI)     |                                |  (Remote Tools)     |
++-----------------+                                +----------------------+
+| - Generates     |                                | - Executes           |
+|   prompts       |                                |   tools              |
+| - Receives      |                                | - Validates          |
+|   structured    |                                |   input/output       |
+|   output        |                                | - Enforces security  |
++-----------------+                                +----------------------+
+```
 
 ### 4.2 Characteristics
 
