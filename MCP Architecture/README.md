@@ -414,5 +414,5 @@ After this module, you must understand:
 ➡ Transports
 ➡ JSON schema design
 
-These form **Module 3: Core MCP Concepts**.
+These form  [Module 3 - MCP Core Concepts](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/Core%20MCP%20Concepts)..
 
