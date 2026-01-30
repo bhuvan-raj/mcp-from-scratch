@@ -9,6 +9,8 @@
 
 **Mastering Model Context Protocol step by step**
 
+<img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/mcp.gif" alt="Banner" />
+
 ---
 
 
