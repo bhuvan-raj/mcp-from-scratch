@@ -367,6 +367,6 @@ After understanding this module, you should next learn:
 ➡ JSON schemas
 ➡ Building your first MCP server
 
-These are covered in [Module 2 - MCP Architecture](./MCP%20Architecture/).
+These are covered in [Module 2 - MCP Architecture](https://github.com/bhuvan-raj/mcp-from-scratch/MCP%20Architecture/).
 
 
