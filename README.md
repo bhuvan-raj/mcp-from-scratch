@@ -55,9 +55,13 @@ By completing this repository, you will be able to:
 
 ---
 ## 🧭 Learning Path
+### Level 1 -Foundations
+- **[Module 1 – Introduction to MCPs](./Introduction%20to%20MCPs/)**  
+  Covers the fundamentals of Model Context Protocol, including what MCP is, why it was created, problems with traditional AI integrations, comparisons with plugins and APIs, real-world use cases, and MCP’s role in modern AI systems.
 
-- [Module 1 - Introduction to MCPs](./Introduction%20to%20MCPs/)
-- [Module 2 - MCP Architecture](./MCP%20Architecture/)
+- **[Module 2 – MCP Architecture](./MCP%20Architecture/)**  
+  Explains the client–server model of MCP, the role of the LLM as the client, responsibilities of the MCP server, communication flow, stateless vs stateful interactions, and key security boundaries for safe and scalable AI integrations.
+
 - [Intermediate MCP](./03-intermediate/)
 - [Advanced MCP](./04-advanced/)
 - [DevOps Use Cases](./05-devops-usecases/)
