@@ -106,7 +106,7 @@ HTTP transport uses **HTTP/HTTPS requests** for communication.
 ---
 
 ```
-          HTTPS / REST / SSE
+                       HTTPS / REST / SSE
 +-----------------+  ---------------------------  +----------------------+
 |   LLM Client    | <------------------------->  |    MCP Server        |
 |  (Local AI)     |                                |  (Remote Tools)     |
