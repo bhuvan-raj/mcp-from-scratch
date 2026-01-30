@@ -64,3 +64,7 @@ By completing this repository, you will be able to:
 
 - **[Module 3 – Core MCP Concepts](./Core%20MCP%20Concepts/)**  
   Covers the essential building blocks of MCP, including tools, resources, prompts, transports, JSON schema fundamentals, and input/output validation, providing a foundation for safe and structured AI–tool interactions.
+
+  - **[Module 4 – MCP Transports](./MCP%20Transports/)**  
+  Explains the communication channels between MCP clients and servers, including STDIO and HTTP/S transports, local vs remote MCP servers, when to use each transport, and the tool discovery mechanism for dynamic tool invocation.
+
