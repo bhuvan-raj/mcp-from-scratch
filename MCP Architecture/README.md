@@ -1,4 +1,5 @@
 # 📘 Module 2: MCP Architecture
+<img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/arch.webp" alt="Banner" />
 
 ---
 
