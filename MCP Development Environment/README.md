@@ -268,5 +268,5 @@ After this module, learners will:
 * Run servers locally via STDIO and HTTP
 
 Next module:
-👉 [Module 6-MCP Development Environment](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/MCP%20Development%20Environment)**
+👉 **[Module 6-MCP Development Environment](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/MCP%20Development%20Environment)**
 
