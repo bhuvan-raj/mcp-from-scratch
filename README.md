@@ -76,4 +76,7 @@ By completing this repository, you will be able to:
 
 - **[Module 4 – MCP Transports](./MCP%20Transports/)**  
   Explains the communication channels between MCP clients and servers, including STDIO and HTTP/S transports, local vs remote MCP servers, when to use each transport, and the tool discovery mechanism for dynamic tool invocation.
+  
+- **[Module 5 – MCP Development Environment](./MCP%20Development%20Environment/)**  
+  Covers the complete setup required for MCP development, including required tools, choosing between Node.js and Python, an overview of the MCP SDK, recommended project folder structure, and running MCP servers locally for hands-on development.
 
