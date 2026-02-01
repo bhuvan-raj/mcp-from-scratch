@@ -12,7 +12,13 @@
 <img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/mcp.gif" alt="Banner" />
 
 ---
+# INDEX
+## 📚 Level 1 – Foundations Index
 
+1. [Module 1 – Introduction to MCPs](./Introduction%20to%20MCPs/)
+2. [Module 2 – MCP Architecture](./MCP%20Architecture/)
+3. [Module 3 – Core MCP Concepts](./Core%20MCP%20Concepts/)
+4. [Module 4 – MCP Transports](./MCP%20Transports/)
 
 ## 📘 About This Repository
 
@@ -54,13 +60,7 @@ By completing this repository, you will be able to:
 - Enterprise-grade MCP system design
 
 ---
-# INDEX
-## 📚 Level 1 – Foundations Index
 
-1. [Module 1 – Introduction to MCPs](./Introduction%20to%20MCPs/)
-2. [Module 2 – MCP Architecture](./MCP%20Architecture/)
-3. [Module 3 – Core MCP Concepts](./Core%20MCP%20Concepts/)
-4. [Module 4 – MCP Transports](./MCP%20Transports/)
 
 
 ## 🧭 Learning Path
