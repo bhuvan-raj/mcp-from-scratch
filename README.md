@@ -12,8 +12,8 @@
 <img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/mcp.gif" alt="Banner" />
 
 ---
-# INDEX
-## 📚 Level 1 – Foundations Index
+## INDEX
+### 📚 Level 1 – Foundations Index
 
 1. [Module 1 – Introduction to MCPs](./Introduction%20to%20MCPs/)
 2. [Module 2 – MCP Architecture](./MCP%20Architecture/)
