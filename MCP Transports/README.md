@@ -238,5 +238,5 @@ Response:
 
 After mastering Module 4, learners can move on to:
 
-* **Module 5: [Module 5- MCP Development Environment](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/MCP%20Development%20Environment)**
+* **Module 5: [Module 5- MCP Data Models](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/MCP%20Data%20Models)**
 
