@@ -12,13 +12,6 @@
 <img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/mcp.gif" alt="Banner" />
 
 ---
-## INDEX
-### 📚 Level 1 – Foundations Index
-
-1. [Module 1 – Introduction to MCPs](./Introduction%20to%20MCPs/)
-2. [Module 2 – MCP Architecture](./MCP%20Architecture/)
-3. [Module 3 – Core MCP Concepts](./Core%20MCP%20Concepts/)
-4. [Module 4 – MCP Transports](./MCP%20Transports/)
 
 ## 📘 About This Repository
 
@@ -84,5 +77,7 @@ By completing this repository, you will be able to:
 
 - **[Module 6 – MCP Development Environment](./MCP%20Development%20Environment/)**  
   Covers the prerequisites and setup for MCP development, including required tools, choosing between Node.js and Python, an overview of the MCP SDK, recommended project folder structure, and running MCP servers locally for hands-on experimentation.
-
+  
+- **[Module 7 – Building Your First MCP Server](./Building%20your%20first%20MCP%20Server/)**  
+  Walks through creating a basic MCP server from scratch, registering tools, implementing tool logic, returning structured outputs, and applying logging and debugging techniques to build a functional and debuggable MCP server.
 
