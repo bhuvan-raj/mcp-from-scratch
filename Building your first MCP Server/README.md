@@ -75,6 +75,8 @@ Type the following into the chat:
 > "Check the system load and read the lab config settings."
 
 The Agent will call your Python functions, validate the input, and present the structured response inside the chat UI.
+<img src="https://github.com/bhuvan-raj/mcp-from-scratch/blob/main/assets/screenshot-2026-02-03_00-18-56.png" alt="Banner" />
+
 
 ---
 
