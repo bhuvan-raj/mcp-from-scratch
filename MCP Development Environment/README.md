@@ -268,5 +268,5 @@ After this module, learners will:
 * Run servers locally via STDIO and HTTP
 
 Next module:
-**Module 7: [ Building Your First MCP Server](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/Building%20Your%20First%20MCP%20Server)**
+**Module 7: [ Building Your First MCP Server](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/Building%20your%20first%20MCP%20Server)**
 
