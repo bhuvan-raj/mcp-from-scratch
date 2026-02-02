@@ -296,4 +296,4 @@ Example:
 
 After this module, learners will be ready for:
 
-* **Module 6: MCP Security and Permissions**
+* **Module 6: [ MCP Development Environment](https://github.com/bhuvan-raj/mcp-from-scratch/tree/main/MCP%20Development%20Environment)**
