@@ -85,7 +85,8 @@ The Agent will call your Python functions, validate the input, and present the s
 * **The Logs**: If the server fails to start, open the **Output** tab in VS Code and select **"MCP Server: lab-server"** from the dropdown menu to see the real-time Python errors.
 * **Path Errors**: 90% of issues are caused by relative paths. Always use `C:\Users\...` or `/Users/...`.
 
-[![Setup MCP Server In Python | Step-By-Step Tutorial](https://img.youtube.com/vi/8g0z3DNi_fU/0.jpg)](https://www.youtube.com/watch?v=8g0z3DNi_fU)
+[![Setup MCP Server In Python](https://img.youtube.com/vi/8g0z3DNi_fU/hqdefault.jpg)](https://www.youtube.com/watch?v=8g0z3DNi_fU)
+
 
 
 This video provides a practical, step-by-step walkthrough of setting up an MCP server in Python and configuring it for use with IDEs like VS Code.
