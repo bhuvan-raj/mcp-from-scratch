@@ -2,7 +2,7 @@
 
 ### Step 1: Install the Requirements
 
-1. **Install `uv**`: Open your VS Code terminal and run:
+1. Install `uv`: Open your VS Code terminal and run:
 * **Mac/Linux**: `curl -LsSf https://astral.sh/uv/install.sh | sh`
 * **Windows**: `powershell -c "irm https://astral.sh/uv/install.ps1 | iex"`
 
