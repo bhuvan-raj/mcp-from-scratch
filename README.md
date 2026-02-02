@@ -80,6 +80,8 @@ By completing this repository, you will be able to:
 - **[Module 5 – MCP Data Models](./MCP%20Data%20Models/)**  
   Explains how MCP defines and enforces data contracts, including tool definition structures, input and output schemas, structured error models, response formats, and schema-driven techniques to prevent hallucinations and ensure reliable AI–tool interactions.
 
+### Level 2 -MCP Development Basics
+
 - **[Module 6 – MCP Development Environment](./MCP%20Development%20Environment/)**  
   Covers the prerequisites and setup for MCP development, including required tools, choosing between Node.js and Python, an overview of the MCP SDK, recommended project folder structure, and running MCP servers locally for hands-on experimentation.
 
